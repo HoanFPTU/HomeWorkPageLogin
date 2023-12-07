@@ -8,7 +8,7 @@ class HomePage extends Component {
     return (
       <View style={style.container}>
         <View style={style.login}>
-          <Text style={style.title}>Đăng nhập</Text>
+          <Text style={style.title}>Đăng Nhập</Text>
           <TextInput
             placeholder="Tên đăng nhập"
             inputMode="text"
